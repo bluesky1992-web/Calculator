@@ -35,5 +35,25 @@ button {
 }
 
 button:hover {
-     background-color: rgb(red, green, blue);
+     background-color: rgb(111, 110, 110);
 }
+
+button:active {
+    background-color: rgb(232, 232, 232);
+}
+
+#equals {
+    background-color: rgb(218, 2, 2);
+}
+
+#equals:hover{
+    background-color: rgb(198, 1, 1);
+}
+#clear {
+    width: 100%;
+    background-color: rgb(252, 226,27);
+}
+
+#clear:hover {
+    background-color: rgb(252, 281,17)
+}; 
